@@ -1,1 +1,1 @@
-Well now i can add soem txt to this readme on teh web.
+Well now i can add some txt to this readme on the web.
